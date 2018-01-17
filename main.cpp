@@ -1,8 +1,5 @@
 /*
-CPSC 589 Assignment 1 (W2017)
-Geordie Tait 10013837
-
-Based upon starter code given in tutorial
+Hypocycloid maker
 Compiled and tested using Visual Studio Community 2015 on Windows 10
 */
 
